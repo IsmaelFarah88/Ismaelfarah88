@@ -3,25 +3,38 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Ismael%20Farah&fontSize=50&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- Introduction -->
+<!-- Intro -->
 <h2 align="center">👋 مرحباً، أنا إسماعيل فرح</h2>
 <p align="center">
-💻 مهندس برمجيات | 🚀 محب للأتمتة والبرمجة | 🌍 أتعلم وأبني أشياء مفيدة
+💻 مهندس برمجيات | 🚀 محب للأتمتة وتطوير الأنظمة | 🌍 أتعلم وأبني أشياء تغير العالم  
+</p>
+
+<p align="center">
+🌟 أدرس في <b>جامعة الإمام الخميني الدولية</b> - إيران  
+🛠 أحب البرمجة، بناء الأنظمة المخصصة، والربط بين الأفكار والتقنية  
+🗣 أتحدث <b>العربية</b> و<b>الفارسية</b>  
 </p>
 
 ---
 
 ## 🛠 المهارات
-- **لغات البرمجة:** Java, Python, PHP, JavaScript, TypeScript, C
-- **إطارات العمل:** Laravel, JavaFX
-- **قواعد البيانات:** MySQL
-- **أدوات:** Git, Docker, Linux, Ubuntu
+### 💻 لغات البرمجة
+Java • Python • PHP • JavaScript • TypeScript • C
+
+### ⚙️ أطر العمل والتقنيات
+Laravel • JavaFX
+
+### 🗄 قواعد البيانات
+MySQL
+
+### 🛠 أدوات التطوير
+Git • Docker • Linux (Ubuntu)
 
 ---
 
 ## 📂 أهم المشاريع
-| المشروع | الوصف | اللغة |
-|---------|-------|-------|
+| 💡 المشروع | 📝 الوصف | 🖥️ اللغة |
+|------------|----------|----------|
 | [Case-study](https://github.com/IsmaelFarah88/Case-study) | نظام دراسة حالة طلاب ذوي الاحتياجات الخاصة | TypeScript |
 | [Library-management-system](https://github.com/IsmaelFarah88/Library-management-system) | نظام إدارة مكتبة | C |
 | [Hotel1](https://github.com/IsmaelFarah88/hotel1) | نظام إدارة فندق | Java |
@@ -36,16 +49,30 @@
 
 ---
 
-## 🔗 تواصل معي
+## 🔥 النشاط المستمر
 <p align="center">
-  <a href="https://linkedin.com/in/USERNAME">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmaelFarah88&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌍 اللغات
+- 🇸🇾 العربية (اللغة الأم)
+- 🇮🇷 الفارسية
+- 🇬🇧 الإنجليزية (متوسط)
+
+---
+
+## 🌐 تواصل معي
+<p align="center">
+  <a href="mailto:ismaelfarah203@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&style=for-the-badge" />
   </a>
-  <a href="https://YOUR-WEBSITE.com">
-    <img src="https://img.shields.io/badge/-Portfolio-black?logo=web&style=for-the-badge" />
+  <a href="https://www.facebook.com/share/1AdzungQtz/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://t.me/ismael_farah">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
