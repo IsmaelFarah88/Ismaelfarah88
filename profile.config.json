@@ -1,77 +1,123 @@
 {
   "$schema": "./profile.schema.json",
+
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
+    "name": "Ismael Farah",
+    "username": "IsmaelFarah88",
+    "headline": "Software Engineer & AI Product Builder",
+    "affiliation": "Software Engineering Student",
+    "location": "Damascus, Syria",
     "status": "Learning / Building / Shipping",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I am a software engineering student focused on building practical software systems, backend applications, and AI-powered products.",
+      "I enjoy turning ideas into working systems — from APIs and business applications to AI-assisted developer tools — while continuously learning, experimenting, and improving my engineering skills."
     ]
   },
+
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "AI & Software Engineering",
+    "direction": "Practical AI-powered software systems",
+    "themes": "AI apps / backend / automation / devtools",
+    "narrative": "I am interested in combining software engineering with modern AI capabilities to build useful, reliable, and practical applications."
   },
+
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Software Engineering",
+      "description": "Building maintainable software systems, APIs, business logic, and applications."
+    },
+    {
+      "name": "Backend Development",
+      "description": "Designing APIs, authentication, databases, business logic, and multi-layer application architectures."
     },
     {
       "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "description": "Integrating modern AI models into practical applications, automation workflows, and developer tools."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Product Building",
+      "description": "Turning ideas into functional products by combining engineering, architecture, and user-focused design."
     }
   ],
+
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "Next AI Draw.io",
+      "url": "https://github.com/IsmaelFarah88/next-ai-draw-io",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "AI & Developer Tools",
+      "summary": "An AI-powered diagramming application that lets users create and modify draw.io diagrams through natural language.",
+      "heroLabel": "AI Product"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "ClinicSystemAPI",
+      "url": "https://github.com/IsmaelFarah88/ClinicSystemAPI",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "Backend & API Architecture",
+      "summary": "A clinic management REST API built with ASP.NET Core 8 using JWT authentication, Entity Framework Core, validation, middleware, and 3-tier architecture.",
+      "heroLabel": "Backend System"
+    },
+    {
+      "name": "Case-study",
+      "url": "https://github.com/IsmaelFarah88/Case-study",
+      "homepage": "",
+      "focus": "AI Application",
+      "summary": "An AI-powered web application built with modern frontend tooling and Gemini API integration.",
+      "heroLabel": "AI Application"
     }
   ],
+
   "techStack": [
-    "TypeScript",
-    "Next.js",
     "Python",
+    "Java",
+    "C",
+    "PHP",
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Laravel",
+    "ASP.NET Core",
+    "MySQL",
+    "SQL Server",
     "PostgreSQL",
-    "Playwright"
+    "Docker",
+    "Git",
+    "Linux"
   ],
+
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "IsmaelFarah88",
+      "url": "https://github.com/IsmaelFarah88",
       "logo": "github",
       "color": "0B1220"
+    },
+    {
+      "label": "Website",
+      "value": "ismaelfarah88.github.io",
+      "url": "https://ismaelfarah88.github.io",
+      "logo": "globe",
+      "color": "2563EB"
+    },
+    {
+      "label": "Telegram",
+      "value": "@ismael_farah",
+      "url": "https://t.me/ismael_farah",
+      "logo": "telegram",
+      "color": "229ED9"
     }
   ],
+
   "activity": {
     "enabled": true,
     "limit": 6
   },
+
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+
+  "footer": "Building practical software and exploring the intersection of software engineering, AI, and real-world products."
 }
